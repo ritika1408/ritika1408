@@ -1,6 +1,5 @@
-<!-- ### Hi there 👋 I am Ritika -->
-<h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">A passionate Technology Geek from India</h3>
+ ### Hi there 👋 I am Ritika 
+
 <!--
 **ritika1408/ritika1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Ritika</h1>
+<h3 align="center">A passionate Technology Geek from India</h3>
 
 # 💫 About Me:
 📚 I'm a 3rd year undergraduate student<br>👩🏻‍💻 I'm currently working on Data Science (Machine Learning) projects.<br>💻 I'm a former community management intern at MentorKart.<br>👯 I'm looking forward to collaborate on open-source Machine Learning projects.<br>😄 Pronouns : She/Her<br>
