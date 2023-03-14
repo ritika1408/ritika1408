@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 I am Ritika -->
+<h1 align="center">Hi 👋, I'm Ritika</h1>
+<h3 align="center">A passionate Technology Geek from India</h3>
 <!--
 **ritika1408/ritika1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
