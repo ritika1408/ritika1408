@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Find Me on:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/RitikaM45991121)](https://twitter.com/RitikaM45991121)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikamalhotra1408) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritika-malhotra-870681201)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/ritikamalhotra2014/)](https://leetcode.com/ritikamalhotra2014/)
 
 # 💻 Languages and Tools:
