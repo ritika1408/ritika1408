@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikamalhotra1408) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritika-malhotra-870681201)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/ritikamalhotra2014/)](https://leetcode.com/ritikamalhotra2014/)
 
 #Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ritika1408)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritika1408)](https://git.io/streak-stats)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ritika1408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
