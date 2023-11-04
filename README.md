@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Technology Geek from India</h3>
 
 # 💫 About Me:
-📚 I'm a Final year undergraduate student<br>👩🏻‍💻 I'm currently working on Full Stack Projects.<br>💻 I'm a former community management intern at MentorKart.<br>👯 I'm looking forward to collaborate on open-source REACTJS projects.<br>😄 Pronouns : She/Her<br>
+📚 I'm a Final Year Undergraduate Student<br>👩🏻‍💻 I'm currently working on Full Stack Projects.<br>💻 I'm a former community management intern at MentorKart.<br>👯 I'm looking forward to collaborate on open-source REACTJS projects.<br>😄 Pronouns : She/Her<br>
 
 ## Achievements 🏅
   
